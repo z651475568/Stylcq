@@ -39,6 +39,7 @@
 	</dependencyManagement>
 	<!--配置 Spring Cloud 依赖关系[END]-->
 
+	<!--配置 Spring Boot Maven 项目打包插件依赖关系[BEGIN]-->
 	<build>
 		<pluginManagement>
 			<plugins>
@@ -56,4 +57,5 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	<!--配置 Spring Boot Maven 项目打包插件依赖关系[BEGIN]-->
 </project>
